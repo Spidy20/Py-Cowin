@@ -25,7 +25,8 @@
 
 ## Screenshots
 
-<img src="https://github.com/Spidy20/Text_to_Handwritten_Text_Converter/blob/master/t1.png">
+<img src="https://github.com/Spidy20/Py-Cowin/blob/master/t1.jpg">
+<img src="https://github.com/Spidy20/Py-Cowin/blob/master/t2.jpg">
 
 
 ## Just follow☝️ me and Star⭐ my repository 
