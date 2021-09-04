@@ -5,6 +5,15 @@
 
 ## [Watch Tutorial for this project](https://youtu.be/HTSDryllx0Y)
 
+## Features of Py-Cowin.
+- Pin & District wise searching🔍
+- Age filter
+- Vaccine Type filter
+- Free / Paid filter
+- Date picker
+- Beautiful UI
+- Download the search report in CSV
+
 ## Usage:-
 
 - Clone my repository.
